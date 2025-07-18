@@ -1,0 +1,57 @@
+# Quartus build output and database files
+db/
+incremental_db/
+output_files/
+*.rpt
+*.summary
+*.smsg
+*.done
+*.sof
+*.pof
+*.jdi
+*.pin
+*.cdf
+*.sld
+*.qmsg
+*.rdb
+*.cdb
+*.hdb
+*.logdb
+*.kpt
+*.ammdb
+*.idb
+*.sta
+*.sta.*
+*.fit.*
+*.map.*
+*.eda.*
+*.asm.*
+*.vpr.*
+*.sta.*
+*.zippleback*
+*.debuginfo
+
+# Simulation outputs
+simulation/modelsim/
+*.sft
+*.vho
+
+# IP and generated files
+PLL/
+*.qip
+*.bsf
+*.cmp
+*.xml
+*.html
+*.sopcinfo
+
+# Backup and temp files
+*.bak
+*~
+*.tmp
+
+# Quartus user-specific files
+*.qws
+*.qdf
+*.qpf
+qar_info.json 
