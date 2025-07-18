@@ -25,9 +25,9 @@ This repository contains the Quartus project files for the `text1one` FPGA desig
 
 ### Building the Project
 1. Clone this repository:
-   ```sh
-git clone https://github.com/yourusername/text1one.git
-cd text1one
+```sh
+git clone https://github.com/AliMi00/FPGA_VGA_UART.git
+cd FPGA_VGA_UART
 ```
 2. Open `text1one.qpf` in Quartus Prime.
 3. Compile the project (Processing > Start Compilation).
@@ -43,10 +43,8 @@ cd text1one
 - `.rpt`, `.summary`: Compilation and analysis reports.
 
 ## License
-Specify your license here (e.g., MIT, GPL, etc.).
+MIT License (MIT)
 
 ## Author
-- Your Name (your.email@example.com)
+- Ali Mobini <alimobinidev@gmail.com>
 
----
-*This README was auto-generated for GitHub documentation purposes.* 
